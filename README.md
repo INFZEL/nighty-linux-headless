@@ -1,3 +1,4 @@
+```markdown
 # 📱 Nighty on Android (Termux)
 
 Run **Nighty** headless right on your Android
@@ -19,6 +20,13 @@ headless, using Wine (plus Box64 on ARM).
 - Termux on your Android device
 - Your own `Nighty.exe` and a valid license
 
+## How to
+A step-by-step tutorial is included in this
+repo. Follow it to set up Nighty on your
+Android device:
+
+👉 [Nighty on Android running nighty-linux-headless in Termux](https://github.com/refluis/nighty-linux-headless/blob/main/Nighty%20on%20Android%20running%20nighty-linux-headless%20in%20Termux.md)
+
 ## Credits
 Huge thanks to [glowxx](https://github.com/glowxx)
 for the original project. Wrapper code is MIT
@@ -31,3 +39,4 @@ author on [Ko-fi](https://ko-fi.com/glowxx).
 > crack or unlicense Nighty. Nighty is a Discord
 > selfbot, which can violate Discord’s ToS. Use
 > only your own account, at your own risk.
+```
