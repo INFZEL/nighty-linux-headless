@@ -22,7 +22,7 @@ The workaround is to run a real Debian inside Termux with proot-distro, then use
 - Termux from F-Droid or GitHub, not the Play Store.
 - Your own `Nighty.exe` (the x86-64 Windows build) and license key.
 - A Discord application with a bot, from the Discord Developer Portal.
-- Wi-Fi, and a second device (PC or tablet) for the web panel. That lets Termux stay in the foreground.
+- Wi-Fi, and optionally a second device (PC or tablet) for viewing the web panel. That lets Termux stay in the foreground in case your device can't handle multi-tasking while Nighty is running.
 
 Terminal tips: paste commands one at a time. A prompt of `~ $` means plain Termux; `root@localhost:~#` means you’re inside Debian.
 
